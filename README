@@ -1,0 +1,5 @@
+This is an extruder design to combine different aspects of Adrian's and Wades extruders. It uses a layout similar to Adrian's, such that it can be removed without dismantling the motor. However, it also uses a hobbled bolt like wades for good driving characteristics.  It also uses herringbone gears for smooth power transmission.
+
+More details may be found on the RepRap wiki:
+http://reprap.org/wiki/Herringbone_Extruder_Driver
+
